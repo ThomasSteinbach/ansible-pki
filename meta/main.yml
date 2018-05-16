@@ -1,0 +1,4 @@
+galaxy_info:
+  author: Thomas Steinbach
+  description: Creates server and client certs with openssl
+  license: MIT
