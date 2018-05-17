@@ -1,3 +1,4 @@
+role_name: thomass.pki
 galaxy_info:
   author: Thomas Steinbach
   description: Creates server and client certs with openssl
